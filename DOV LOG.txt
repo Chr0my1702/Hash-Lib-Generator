@@ -1,0 +1,41 @@
+CODING CLUB
+
+16/09/2021:
+Project started. 
+I want to have a list of hashes, to then check if a password is commonly used.
+
+This project will be using HashLib, Flask, HTML, DataBases, and AWS EC2 or S3s instances. 
+
+Next week I plan on implementing the flask website
+
+23/09/2021:
+search for open databreaches
+
+30/09/2021:
+
+started mass producing hashes and password
+
+7/10/2021
+
+only fixed a few bugs + Next week I plan on implementing the database using sql alchemy
+
+16/10/21
+
+Implemented SQL Alchemy but database is not working
+
+22/10/21
+added commands for database
+
+3/11/21
+added html render commands
+
+11/11/21:
+realised i dont need the render commands as  i could just return the data.
+
+18/11/21:
+finished website and errors.
+
+25/11/21: I htink i finished!
+
+5/12/21:
+I've finished.
